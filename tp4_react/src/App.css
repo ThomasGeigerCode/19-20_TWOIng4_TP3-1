@@ -20,3 +20,18 @@
 .App-link {
   color: #09d3ac;
 }
+
+#rouge{
+  background-color: rgba(255, 0, 0, 0.5);
+  width: 300px;
+}
+
+#vert{
+  background-color: rgba(0, 255, 0, 0.5);
+  width: 300px;
+}
+
+#bleu{
+  background-color: rgba(0, 0, 255, 0.5);
+  width: 300px;
+}
